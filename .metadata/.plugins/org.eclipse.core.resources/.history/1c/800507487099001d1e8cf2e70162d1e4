@@ -1,0 +1,11 @@
+package DataTypes3;
+
+ public class Test {
+
+	public static void main(String[] args) {
+		 byte b = 100;
+		 System.out.println(b);	
+
+	}
+}
+ // byte Data type -: -128 to 127
