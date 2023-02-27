@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="org.eclipse.pde.ui.dialogs.FilteredPluginArtifactsSelectionDialog">
 		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode p_id=&quot;bcpg&quot; p_version=&quot;1.72.0&quot; type=&quot;0&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
 		<item key="showExtensions" value="true"/>
 		<item key="showExtensionPoints" value="true"/>
 		<item key="showExportedPackages" value="true"/>
