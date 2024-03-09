@@ -15,7 +15,7 @@
 		<item value="org.eclipse.jgit.ssh.apache:6.4.0.202211300538-r"/>
 		<item value="org.eclipse.jgit:6.4.0.202211300538-r"/>
 		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.27.0.v202208260526"/>
-		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.5.v20221102-0933"/>
+		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.6.v20230125-1136"/>
 		<item value="org.eclipse.m2e.feature:2.1.2.20221130-2239"/>
 		<item value="org.eclipse.m2e.logback.feature:2.1.0.20221015-0744"/>
 		<item value="org.eclipse.m2e.wtp.feature:1.5.2.20220906-1452"/>
@@ -29,8 +29,6 @@
 		<item value="org.eclipse.tm.terminal.view.feature:11.0.0.202211062329"/>
 		<item value="org.eclipse.userstorage:1.2.0.v20210517-0327"/>
 		<item value="org.eclipse.wst.common.fproj:3.7.3.v202111212041"/>
-		<item value="org.jboss.tools.m2e.wro4j.feature:1.2.0.202209071019"/>
-		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
 	</list>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
@@ -38,13 +36,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\jayaram\Desktop\SpringBoot-Projects"/>
 			<item value="C:\Users\jayaram\Desktop\practice\java\Java-45-11"/>
 			<item value="C:\Users\jayaram\Desktop\JAVA-45"/>
 		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="589"/>
-		<item key="DIALOG_Y_ORIGIN" value="269"/>
+		<item key="DIALOG_X_ORIGIN" value="277"/>
+		<item key="DIALOG_Y_ORIGIN" value="201"/>
 	</section>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">

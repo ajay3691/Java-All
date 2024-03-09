@@ -36,11 +36,6 @@ public class StudentController {
 	public List<Student>GetStudent(){
 		return serv.getStudents(null);
 	}
-	
-	
-	
-	
-	
-	
+		
 
 }
